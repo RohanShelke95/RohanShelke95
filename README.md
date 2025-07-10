@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,100:80D0C7&height=200&section=header&text=Rohan%20Shelke&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+<h1 align="center">Rohan Shelke</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=03DAC5&width=500&lines=Java+Full+Stack+Learner;Node.js+%7C+MySQL+%7C+Frontend+Dev;Passionate+about+Clean+UI+%26+Problem+Solving;Tech+Explorer+and+Team+Player" />
@@ -108,6 +106,4 @@
 ⭐️ Inspired by hard work. Learning every day.  
 ✨ _Feel free to explore my projects and suggest improvements!_
 
-
-⭐️ From [@RohanShelke95](https://github.com/RohanShelke95)
 
