@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rohan Shelke</h1>
 
 <h3 align="center">
-Java Full Stack Developer | Spring Boot | React.js | Node.js | MySQL
+Java Full Stack Developer | React.js | Node.js | MySQL
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+Node.js;Building+Modern+Web+Applications;REST+API+Developer;Always+Learning+New+Technologies;Open+to+Software+Developer+Opportunities" />
+Building Modern & Scalable Web Applications 🚀
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;React.js+%7C+Node.js+%7C+MySQL;Building+Modern+Web+Applications;REST+API+Developer;Always+Learning+New+Technologies;Open+to+Software+Developer+Opportunities" />
 </p>
 
 ---
@@ -14,14 +18,14 @@ Java Full Stack Developer | Spring Boot | React.js | Node.js | MySQL
 
 Hi! I'm **Rohan Shelke**, a passionate **Java Full Stack Developer** from Maharashtra, India.
 
-I enjoy building scalable, responsive, and user-friendly web applications using modern technologies.
+I enjoy developing responsive, scalable, and user-friendly web applications using modern technologies.
 
-I love solving real-world problems through clean and efficient code while continuously learning new technologies.
+I love solving real-world problems through clean and efficient code while continuously improving my technical skills.
 
 - 🎓 Bachelor of Computer Science
 - 💼 Java Full Stack Developer Intern at Giri's Tech Hub Pvt. Ltd.
-- 🌱 Currently Learning Spring Boot, React.js, JWT Authentication & Advanced Java
-- 💬 Ask me about Java, React, Node.js, MySQL, REST APIs
+- 🌱 Currently learning Spring Boot, React.js, Advanced Java & System Design
+- 💬 Ask me about Java, React.js, Node.js, MySQL & REST APIs
 - 📫 Email: **shelkerohan555@gmail.com**
 - 🌍 Languages: English | Hindi | Marathi
 - 🚀 Open to Full Stack Developer & Software Engineer opportunities
@@ -33,7 +37,7 @@ I love solving real-world problems through clean and efficient code while contin
 ## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
 ## Frontend
@@ -64,13 +68,16 @@ I love solving real-world problems through clean and efficient code while contin
 
 # 🚀 Featured Projects
 
-## 🛍️ E-Commerce Website
+## 🛒 E-Commerce Website
 
-### Technologies
+**Tech Stack**
 
-React.js • Node.js • Express.js • MySQL
+- React.js
+- Node.js
+- Express.js
+- MySQL
 
-### Features
+**Features**
 
 - User Authentication
 - Product Search
@@ -86,17 +93,20 @@ https://github.com/rohanshelke
 
 ## 🤖 Content-Based Product Recommendation System
 
-### Technologies
+**Tech Stack**
 
-Node.js • Express.js • MySQL • JWT
+- Node.js
+- Express.js
+- MySQL
+- JWT Authentication
 
-### Features
+**Features**
 
 - Smart Product Recommendation
 - Login Authentication
-- Admin Panel
+- Admin Dashboard
+- Product Search
 - CRUD Operations
-- Search & Filtering
 
 🔗 Repository:
 https://github.com/rohanshelke
@@ -105,46 +115,60 @@ https://github.com/rohanshelke
 
 ## 📦 Product Management System
 
-### Technologies
+**Tech Stack**
 
-Node.js • Express.js • MySQL
+- Node.js
+- Express.js
+- MySQL
 
-### Features
+**Features**
 
 - Product CRUD
 - Category CRUD
 - MVC Architecture
-- REST APIs
 - Image Upload
+- Search Functionality
+
+🔗 Repository:
+https://github.com/rohanshelke
 
 ---
 
 ## 📚 Library Management System
 
-### Technologies
+**Tech Stack**
 
-Java • MySQL
+- Java
+- MySQL
 
-### Features
+**Features**
 
 - Student Management
 - Book Management
 - Issue & Return Books
 - Admin Module
 
+🔗 Repository:
+https://github.com/rohanshelke
+
 ---
 
 ## 💰 Loan EMI Calculator
 
-### Technologies
+**Tech Stack**
 
-HTML • CSS • JavaScript • Node.js
+- HTML
+- CSS
+- JavaScript
 
-### Features
+**Features**
 
-- EMI Calculation
+- EMI Calculator
 - Interest Calculation
-- Responsive Design
+- Responsive UI
+
+🔗 Repository:
+https://github.com/rohanshelke
 
 ---
 
@@ -172,7 +196,7 @@ HTML • CSS • JavaScript • Node.js
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -190,7 +214,7 @@ HTML • CSS • JavaScript • Node.js
 
 ---
 
-# 📊 GitHub Activity Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
@@ -224,7 +248,7 @@ HTML • CSS • JavaScript • Node.js
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rohan-shelke-9136b8317">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -240,17 +264,13 @@ HTML • CSS • JavaScript • Node.js
 
 ---
 
-# 💼 Looking For
+# 💼 Open To
 
-✅ Java Full Stack Developer
-
-✅ Software Engineer
-
-✅ Backend Developer
-
-✅ React Developer
-
-✅ Full Stack Developer
+- ✅ Java Full Stack Developer
+- ✅ Software Engineer
+- ✅ Backend Developer
+- ✅ React Developer
+- ✅ Full Stack Developer
 
 ---
 
