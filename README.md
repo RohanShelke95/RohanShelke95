@@ -1,109 +1,272 @@
-<h1 align="center">Rohan Shelke</h1>
+<h1 align="center">Hi 👋, I'm Rohan Shelke</h1>
+
+<h3 align="center">
+Java Full Stack Developer | Spring Boot | React.js | Node.js | MySQL
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=03DAC5&width=500&lines=Java+Full+Stack+Learner;Node.js+%7C+MySQL+%7C+Frontend+Dev;Passionate+about+Clean+UI+%26+Problem+Solving;Tech+Explorer+and+Team+Player" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+Node.js;Building+Modern+Web+Applications;REST+API+Developer;Always+Learning+New+Technologies;Open+to+Software+Developer+Opportunities" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 BCS Student at **Balbhim College, Beed** (Affiliated to DBATU)
-- 💼 Intern at **Giri’s Tech Hub, Pune** – Java Full Stack Developer  
-- 🚀 Passionate about creating **user-friendly, responsive web apps**
-- 🔍 Currently learning: **Advanced Java**, **Node.js**, **SQL Joins & Triggers**
-- ✨ Quick learner with strong problem-solving skills
-- 🌍 Languages: **Marathi**, **Hindi**, **English**
+Hi! I'm **Rohan Shelke**, a passionate **Java Full Stack Developer** from Maharashtra, India.
+
+I enjoy building scalable, responsive, and user-friendly web applications using modern technologies.
+
+I love solving real-world problems through clean and efficient code while continuously learning new technologies.
+
+- 🎓 Bachelor of Computer Science
+- 💼 Java Full Stack Developer Intern at Giri's Tech Hub Pvt. Ltd.
+- 🌱 Currently Learning Spring Boot, React.js, JWT Authentication & Advanced Java
+- 💬 Ask me about Java, React, Node.js, MySQL, REST APIs
+- 📫 Email: **shelkerohan555@gmail.com**
+- 🌍 Languages: English | Hindi | Marathi
+- 🚀 Open to Full Stack Developer & Software Engineer opportunities
 
 ---
 
-### 🧰 Tech Stack
+# 💻 Tech Stack
 
-**Languages & Frontend**
+## Programming Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/>
+<img src="https://skillicons.dev/icons?i=java,js,c,cpp" />
 </p>
 
-**Backend, Tools & IDEs**
+## Frontend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="30px"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,linux" />
 </p>
 
 ---
 
-### 🧠 Projects
+# 🚀 Featured Projects
 
-- 🛒 **Online Grocery Store**  
-  Built a fully responsive online grocery website using HTML, CSS, JS, and PHP.
+## 🛍️ E-Commerce Website
 
-- ✈️ **Tour & Travel Management System**  
-  Managed user bookings and feedbacks with a complete frontend + backend stack.
+### Technologies
 
-- 🧮 **Online Calculator**  
-  Simple calculator web app using HTML and CSS for basic operations.
+React.js • Node.js • Express.js • MySQL
 
----
+### Features
 
-### 🏅 Achievements & Certifications
+- User Authentication
+- Product Search
+- Shopping Cart
+- Admin Dashboard
+- Category Management
+- Responsive UI
 
-- ✅ **Completed Google Data Analytics** – Coursera  
-- ✅ **Machine Learning for All** – Coursera  
-- ✅ **Basic Java Workshop**  
-- 🏆 Infosys Springboard Courses
-
----
-
-### 🎯 Goals for 2025
-
-- 🔄 Build RESTful APIs using Node.js & Express  
-- 💡 Create real-world full-stack mini projects  
-- 🧩 Master multithreading and OOP design in Java  
-- ☁️ Learn basics of cloud deployment (Heroku, Vercel, etc.)
+🔗 Repository:
+https://github.com/rohanshelke
 
 ---
 
-### 🔗 Connect with Me
+## 🤖 Content-Based Product Recommendation System
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rohan-shelke-9136b8317" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shelkerohan555@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/rohanshelke" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### Technologies
+
+Node.js • Express.js • MySQL • JWT
+
+### Features
+
+- Smart Product Recommendation
+- Login Authentication
+- Admin Panel
+- CRUD Operations
+- Search & Filtering
+
+🔗 Repository:
+https://github.com/rohanshelke
 
 ---
 
-### 📊 GitHub Stats
+## 📦 Product Management System
+
+### Technologies
+
+Node.js • Express.js • MySQL
+
+### Features
+
+- Product CRUD
+- Category CRUD
+- MVC Architecture
+- REST APIs
+- Image Upload
+
+---
+
+## 📚 Library Management System
+
+### Technologies
+
+Java • MySQL
+
+### Features
+
+- Student Management
+- Book Management
+- Issue & Return Books
+- Admin Module
+
+---
+
+## 💰 Loan EMI Calculator
+
+### Technologies
+
+HTML • CSS • JavaScript • Node.js
+
+### Features
+
+- EMI Calculation
+- Interest Calculation
+- Responsive Design
+
+---
+
+# 📜 Certifications
+
+🏆 Google Data Analytics – Coursera
+
+🏆 Machine Learning for All – Coursera
+
+🏆 Infosys Springboard Certifications
+
+🏆 Java Programming Workshop
+
+---
+
+# 🌱 Currently Learning
+
+- Spring Boot
+- React.js
+- JWT Authentication
+- Docker Basics
+- AWS Basics
+- Data Structures & Algorithms
+- System Design Fundamentals
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanshelke&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanshelke&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshelke&layout=compact&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohanshelke&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanshelke&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshelke&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-⭐️ From [@rohanshelke](https://github.com/rohanshelke)
+# 📊 GitHub Activity Graph
 
+<p align="center">
 
-⭐️ Inspired by hard work. Learning every day.  
-✨ _Feel free to explore my projects and suggest improvements!_
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanshelke&theme=tokyo-night"/>
 
+</p>
 
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohanshelke&theme=onedark&row=1&column=6"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rohanshelke&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rohan-shelke-9136b8317">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:shelkerohan555@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/rohanshelke">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Looking For
+
+✅ Java Full Stack Developer
+
+✅ Software Engineer
+
+✅ Backend Developer
+
+✅ React Developer
+
+✅ Full Stack Developer
+
+---
+
+# ⭐ Fun Facts
+
+- ☕ Coffee + Coding = Productivity
+- 💻 I enjoy building real-world web applications
+- 📚 Always learning new technologies
+- 🤝 Open to collaboration and open-source contributions
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+If you like my work, don't forget to ⭐ my repositories.
+</p>
